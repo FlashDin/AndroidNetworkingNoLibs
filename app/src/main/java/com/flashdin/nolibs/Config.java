@@ -5,5 +5,5 @@ package com.flashdin.nolibs;
  */
 
 public class Config {
-    public static final String URL = "http://192.168.42.130/0/cobaCnn/sources/noLibs/";
+    public static final String URL = "http://192.168.42.130/0/cobaCnn/sources/noLibs/"; 
 }
