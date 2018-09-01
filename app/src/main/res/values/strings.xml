@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">No Library</string>
+    <string name="error_field_required">Field harus diisi</string>
+</resources>
